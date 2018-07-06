@@ -1,0 +1,3 @@
+/home/gireesh/gireesh/opencv/tut_5_smoothing/CMakeFiles/rebuild_cache.dir
+/home/gireesh/gireesh/opencv/tut_5_smoothing/CMakeFiles/edit_cache.dir
+/home/gireesh/gireesh/opencv/tut_5_smoothing/CMakeFiles/Smoothing_basic.dir

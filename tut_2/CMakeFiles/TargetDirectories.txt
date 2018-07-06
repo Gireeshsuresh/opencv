@@ -1,0 +1,3 @@
+/home/gireesh/gireesh/opencv/tut_2/CMakeFiles/edit_cache.dir
+/home/gireesh/gireesh/opencv/tut_2/CMakeFiles/rebuild_cache.dir
+/home/gireesh/gireesh/opencv/tut_2/CMakeFiles/Convert_color.dir

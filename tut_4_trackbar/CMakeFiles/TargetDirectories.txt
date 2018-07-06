@@ -1,0 +1,3 @@
+/home/gireesh/gireesh/opencv/tut_4_trackbar/CMakeFiles/edit_cache.dir
+/home/gireesh/gireesh/opencv/tut_4_trackbar/CMakeFiles/rebuild_cache.dir
+/home/gireesh/gireesh/opencv/tut_4_trackbar/CMakeFiles/TrackBar.dir

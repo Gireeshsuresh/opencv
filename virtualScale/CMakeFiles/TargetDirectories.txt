@@ -1,0 +1,3 @@
+/home/gireesh/gireesh/opencv/virtualScale/CMakeFiles/edit_cache.dir
+/home/gireesh/gireesh/opencv/virtualScale/CMakeFiles/rebuild_cache.dir
+/home/gireesh/gireesh/opencv/virtualScale/CMakeFiles/vs.dir

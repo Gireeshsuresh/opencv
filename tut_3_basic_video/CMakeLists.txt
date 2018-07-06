@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.80)
+project( Capture_Video )
+find_package( OpenCV REQUIRED )
+include_directories( ${OpenCV_INCLUDE_DIRS} )
+add_executable( Capture_Video basic_video.cpp )
+target_link_libraries( Capture_Video ${OpenCV_LIBS} )
