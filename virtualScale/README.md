@@ -21,3 +21,5 @@ Again, to make this more concrete, let’s say I move my camera 3 ft (or 36 inch
 D’ = (11in x 543.45) / 170 = 35in
 
 Or roughly 36 inches, which is 3 feet.
+
+[Project source : PyImageSearch ]
